@@ -1,0 +1,11 @@
+host: localhost
+port: 3000
+
+mysqlConfiguration:
+  type: mysql
+  host: localhost
+  port: 3306
+  username: root
+  password: 
+  database: lucky_shine
+  synchronize: true

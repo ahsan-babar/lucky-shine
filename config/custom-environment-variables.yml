@@ -1,0 +1,9 @@
+host: BACKEND_HOST
+port: BACKEND_PORT
+
+mysqlConfiguration:
+  host: SQLHOST
+  port: SQLPORT
+  username: SQLUSER
+  password: SQLPASSWORD
+  database: SQLDATABASE
